@@ -1,0 +1,305 @@
+2026-04-08 19:10:32,089 - ebanking -INFO - Url is opened
+2026-04-08 19:10:34,398 - ebanking -INFO - Entered Username
+2026-04-08 19:10:34,453 - ebanking -INFO - Entered Password
+2026-04-08 19:10:45,176 - ebanking -INFO - Url is opened
+2026-04-08 19:10:47,314 - ebanking -INFO - Entered Username
+2026-04-08 19:10:47,371 - ebanking -INFO - Entered Password
+2026-04-08 19:16:58,860 - ebanking -INFO - Url is opened
+2026-04-08 19:16:58,972 - ebanking -INFO - Entered Username
+2026-04-08 19:16:59,024 - ebanking -INFO - Entered Password
+2026-04-08 19:17:03,145 - ebanking -INFO - Test case Passed
+2026-04-08 19:55:13,177 - ebanking -INFO - Url is opened
+2026-04-08 19:55:13,296 - ebanking -INFO - Entered Username
+2026-04-08 19:57:12,825 - ebanking -INFO - Url is opened
+2026-04-08 19:57:12,942 - ebanking -INFO - Entered Username
+2026-04-08 20:00:42,920 - ebanking -INFO - Url is opened
+2026-04-08 20:00:43,029 - ebanking -INFO - Entered Username
+2026-04-08 20:00:43,083 - ebanking -INFO - Entered Password
+2026-04-08 20:00:44,133 - ebanking -INFO - Test case Passed
+2026-04-08 20:25:30,942 - ebanking -INFO - Url is opened
+2026-04-08 20:25:31,071 - ebanking -INFO - Entered Username
+2026-04-08 20:25:31,137 - ebanking -INFO - Entered Password
+2026-04-08 20:26:06,092 - ebanking -INFO - Url is opened
+2026-04-08 20:26:06,192 - ebanking -INFO - Entered Username
+2026-04-08 20:26:06,242 - ebanking -INFO - Entered Password
+2026-04-08 20:26:07,317 - ebanking -INFO - Test case Passed
+2026-04-08 20:26:39,081 - ebanking -INFO - Url is opened
+2026-04-08 20:26:39,202 - ebanking -INFO - Entered Username
+2026-04-08 20:26:39,255 - ebanking -INFO - Entered Password
+2026-04-08 20:26:43,181 - ebanking -INFO - Test case Passed
+2026-04-08 20:27:00,461 - ebanking -INFO - Url is opened
+2026-04-08 20:27:00,576 - ebanking -INFO - Entered Username
+2026-04-08 20:27:00,629 - ebanking -INFO - Entered Password
+2026-04-08 20:27:08,514 - ebanking -INFO - Test case Passed
+2026-04-08 21:44:21,618 - ebanking -INFO - Url is opened
+2026-04-08 21:44:21,773 - ebanking -INFO - Entered Username
+2026-04-08 21:44:21,853 - ebanking -INFO - Entered Password
+2026-04-08 21:44:23,833 - ebanking -INFO - Test case Passed
+2026-04-08 21:46:08,741 - ebanking -INFO - Url is opened
+2026-04-08 21:46:08,916 - ebanking -INFO - Entered Username
+2026-04-08 21:46:09,003 - ebanking -INFO - Entered Password
+2026-04-08 21:46:10,092 - ebanking -INFO - Test case Passed
+2026-04-08 21:47:03,559 - ebanking -INFO - Url is opened
+2026-04-08 21:47:03,754 - ebanking -INFO - Entered Username
+2026-04-08 21:47:03,845 - ebanking -INFO - Entered Password
+2026-04-08 21:47:04,944 - ebanking -INFO - Test case Passed
+2026-04-10 11:07:51,097 - ebanking -INFO - Url is opened
+2026-04-10 11:07:51,220 - ebanking -INFO - Entered Username
+2026-04-10 11:07:51,287 - ebanking -INFO - Entered Password
+2026-04-10 11:07:52,964 - ebanking -INFO - Test case Passed
+2026-04-10 17:21:49,282 - ebanking -INFO - Url is opened
+2026-04-10 17:21:49,495 - ebanking -INFO - Entered Username
+2026-04-10 17:21:49,586 - ebanking -INFO - Entered Password
+2026-04-10 17:21:51,841 - ebanking -INFO - Test case Passed
+2026-04-10 17:28:09,579 - ebanking -INFO - Url is opened
+2026-04-10 17:28:09,766 - ebanking -INFO - Entered Username
+2026-04-10 17:28:09,863 - ebanking -INFO - Entered Password
+2026-04-10 17:28:10,719 - ebanking -INFO - Test case Passed
+2026-04-10 18:16:16,559 - ebanking -INFO - user name provided
+2026-04-10 18:16:16,625 - ebanking -INFO - password provided
+2026-04-10 18:16:19,708 - ebanking -INFO - Login passed
+2026-04-10 18:20:06,453 - ebanking -INFO - user name provided
+2026-04-10 18:20:06,521 - ebanking -INFO - password provided
+2026-04-10 18:20:10,897 - ebanking -INFO - Login passed
+2026-04-10 18:22:16,794 - ebanking -INFO - user name provided
+2026-04-10 18:22:16,858 - ebanking -INFO - password provided
+2026-04-10 18:22:19,946 - ebanking -INFO - Login passed
+2026-04-10 18:24:58,242 - ebanking -INFO - user name provided
+2026-04-10 18:24:58,312 - ebanking -INFO - password provided
+2026-04-10 18:25:01,399 - ebanking -INFO - Login passed
+2026-04-10 18:27:33,537 - ebanking -INFO - user name provided
+2026-04-10 18:27:33,599 - ebanking -INFO - password provided
+2026-04-10 18:27:36,680 - ebanking -INFO - Login passed
+2026-04-10 18:35:44,417 - ebanking -INFO - user name provided
+2026-04-10 18:35:44,476 - ebanking -INFO - password provided
+2026-04-10 18:35:50,910 - ebanking -INFO - Login passed
+2026-04-10 18:39:11,861 - ebanking -INFO - user name provided
+2026-04-10 18:39:11,926 - ebanking -INFO - password provided
+2026-04-10 18:39:16,710 - ebanking -INFO - Login passed
+2026-04-10 18:40:33,157 - ebanking -INFO - user name provided
+2026-04-10 18:40:33,219 - ebanking -INFO - password provided
+2026-04-10 18:40:36,553 - ebanking -INFO - Login passed
+2026-04-10 18:43:14,158 - ebanking -INFO - user name provided
+2026-04-10 18:43:14,230 - ebanking -INFO - password provided
+2026-04-10 18:43:18,981 - ebanking -INFO - Login passed
+2026-04-10 18:44:32,546 - ebanking -INFO - user name provided
+2026-04-10 18:44:32,607 - ebanking -INFO - password provided
+2026-04-10 18:44:35,971 - ebanking -INFO - Login passed
+2026-04-10 18:48:20,715 - ebanking -INFO - user name provided
+2026-04-10 18:48:20,781 - ebanking -INFO - password provided
+2026-04-10 18:48:28,883 - ebanking -INFO - Login passed
+2026-04-10 18:49:46,124 - ebanking -INFO - user name provided
+2026-04-10 18:49:46,193 - ebanking -INFO - password provided
+2026-04-10 18:49:56,469 - ebanking -INFO - Login passed
+2026-04-10 19:08:08,400 - ebanking -INFO - user name provided
+2026-04-10 19:08:08,480 - ebanking -INFO - password provided
+2026-04-10 19:08:16,599 - ebanking -INFO - Login passed
+2026-04-10 19:11:53,609 - ebanking -INFO - user name provided
+2026-04-10 19:11:53,674 - ebanking -INFO - password provided
+2026-04-10 19:12:02,017 - ebanking -INFO - Login passed
+2026-04-10 19:15:19,104 - ebanking -INFO - user name provided
+2026-04-10 19:15:19,171 - ebanking -INFO - password provided
+2026-04-10 19:15:27,269 - ebanking -INFO - Login passed
+2026-04-10 19:15:29,090 - ebanking -INFO - user name provided
+2026-04-10 19:15:29,150 - ebanking -INFO - password provided
+2026-04-10 19:15:33,554 - ebanking -INFO - user name provided
+2026-04-10 19:15:33,633 - ebanking -INFO - password provided
+2026-04-10 19:15:42,098 - ebanking -INFO - Login passed
+2026-04-10 19:15:45,440 - ebanking -INFO - user name provided
+2026-04-10 19:15:45,533 - ebanking -INFO - password provided
+2026-04-10 19:15:52,073 - ebanking -INFO - user name provided
+2026-04-10 19:15:52,153 - ebanking -INFO - password provided
+2026-04-10 20:03:21,381 - ebanking -INFO - user name provided
+2026-04-10 20:03:21,479 - ebanking -INFO - password provided
+2026-04-10 20:03:29,925 - ebanking -INFO - Login passed
+2026-04-10 20:03:32,978 - ebanking -INFO - user name provided
+2026-04-10 20:03:33,062 - ebanking -INFO - password provided
+2026-04-10 20:03:38,238 - ebanking -INFO - user name provided
+2026-04-10 20:03:38,305 - ebanking -INFO - password provided
+2026-04-10 20:03:46,930 - ebanking -INFO - Login passed
+2026-04-10 20:03:53,749 - ebanking -INFO - user name provided
+2026-04-10 20:03:53,813 - ebanking -INFO - password provided
+2026-04-10 20:03:58,675 - ebanking -INFO - user name provided
+2026-04-10 20:03:58,730 - ebanking -INFO - password provided
+2026-04-10 20:11:31,199 - ebanking -INFO - user name provided
+2026-04-10 20:11:31,274 - ebanking -INFO - password provided
+2026-04-10 20:11:50,836 - ebanking -INFO - Login passed
+2026-04-10 20:12:01,723 - ebanking -INFO - user name provided
+2026-04-10 20:12:01,788 - ebanking -INFO - password provided
+2026-04-10 20:12:08,477 - ebanking -INFO - user name provided
+2026-04-10 20:12:08,602 - ebanking -INFO - password provided
+2026-04-10 20:12:18,958 - ebanking -INFO - Login passed
+2026-04-10 20:12:22,321 - ebanking -INFO - user name provided
+2026-04-10 20:12:22,404 - ebanking -INFO - password provided
+2026-04-10 20:12:29,351 - ebanking -INFO - user name provided
+2026-04-10 20:12:29,420 - ebanking -INFO - password provided
+2026-04-10 20:19:36,995 - ebanking -INFO - user name provided
+2026-04-10 20:19:37,095 - ebanking -INFO - password provided
+2026-04-10 20:30:37,914 - ebanking -INFO - user name provided
+2026-04-10 20:30:37,990 - ebanking -INFO - password provided
+2026-04-10 20:30:48,116 - ebanking -INFO - Login passed
+2026-04-10 20:30:51,340 - ebanking -INFO - user name provided
+2026-04-10 20:30:51,456 - ebanking -INFO - password provided
+2026-04-10 20:30:58,472 - ebanking -INFO - user name provided
+2026-04-10 20:30:58,668 - ebanking -INFO - password provided
+2026-04-10 20:31:11,662 - ebanking -INFO - Login passed
+2026-04-10 20:31:20,892 - ebanking -INFO - user name provided
+2026-04-10 20:31:20,948 - ebanking -INFO - password provided
+2026-04-10 20:31:28,583 - ebanking -INFO - user name provided
+2026-04-10 20:31:28,645 - ebanking -INFO - password provided
+2026-04-10 20:45:40,510 - ebanking -INFO - user name provided
+2026-04-10 20:45:40,579 - ebanking -INFO - password provided
+2026-04-10 20:45:49,077 - ebanking -INFO - Login passed
+2026-04-10 20:45:54,613 - ebanking -INFO - user name provided
+2026-04-10 20:45:54,801 - ebanking -INFO - password provided
+2026-04-10 20:46:03,296 - ebanking -INFO - user name provided
+2026-04-10 20:46:03,394 - ebanking -INFO - password provided
+2026-04-10 20:46:13,511 - ebanking -INFO - Login passed
+2026-04-10 20:46:16,651 - ebanking -INFO - user name provided
+2026-04-10 20:46:16,721 - ebanking -INFO - password provided
+2026-04-10 20:46:21,309 - ebanking -INFO - user name provided
+2026-04-10 20:46:21,370 - ebanking -INFO - password provided
+2026-04-10 20:55:48,571 - ebanking -INFO - user name provided
+2026-04-10 20:55:48,662 - ebanking -INFO - password provided
+2026-04-10 20:56:06,116 - ebanking -INFO - Login passed
+2026-04-10 20:56:24,921 - ebanking -INFO - user name provided
+2026-04-10 20:56:25,016 - ebanking -INFO - password provided
+2026-04-10 20:56:31,268 - ebanking -INFO - user name provided
+2026-04-10 20:56:31,490 - ebanking -INFO - password provided
+2026-04-10 20:56:41,086 - ebanking -INFO - Login passed
+2026-04-10 20:56:46,362 - ebanking -INFO - user name provided
+2026-04-10 20:56:46,426 - ebanking -INFO - password provided
+2026-04-10 20:56:53,451 - ebanking -INFO - user name provided
+2026-04-10 20:56:53,520 - ebanking -INFO - password provided
+2026-04-10 21:01:05,222 - ebanking -INFO - user name provided
+2026-04-10 21:01:05,296 - ebanking -INFO - password provided
+2026-04-10 21:01:17,101 - ebanking -INFO - Login passed
+2026-04-10 21:01:25,314 - ebanking -INFO - user name provided
+2026-04-10 21:01:25,386 - ebanking -INFO - password provided
+2026-04-10 21:01:35,387 - ebanking -INFO - user name provided
+2026-04-10 21:01:35,712 - ebanking -INFO - password provided
+2026-04-10 21:01:47,380 - ebanking -INFO - Login passed
+2026-04-10 21:02:00,487 - ebanking -INFO - user name provided
+2026-04-10 21:02:00,705 - ebanking -INFO - password provided
+2026-04-10 21:02:10,046 - ebanking -INFO - user name provided
+2026-04-10 21:02:10,102 - ebanking -INFO - password provided
+2026-04-10 21:11:04,367 - ebanking -INFO - user name provided
+2026-04-10 21:11:04,510 - ebanking -INFO - password provided
+2026-04-10 21:11:17,040 - ebanking -INFO - Login passed
+2026-04-10 21:11:29,696 - ebanking -INFO - user name provided
+2026-04-10 21:11:29,804 - ebanking -INFO - password provided
+2026-04-10 21:11:51,320 - ebanking -INFO - user name provided
+2026-04-10 21:11:51,387 - ebanking -INFO - password provided
+2026-04-10 21:12:40,834 - ebanking -INFO - Login passed
+2026-04-10 21:13:24,701 - ebanking -INFO - user name provided
+2026-04-10 21:13:24,767 - ebanking -INFO - password provided
+2026-04-10 21:13:29,537 - ebanking -INFO - user name provided
+2026-04-10 21:13:29,588 - ebanking -INFO - password provided
+2026-04-10 21:15:15,954 - ebanking -INFO - user name provided
+2026-04-10 21:15:16,013 - ebanking -INFO - password provided
+2026-04-10 21:15:24,396 - ebanking -INFO - Login passed
+2026-04-10 21:15:33,772 - ebanking -INFO - user name provided
+2026-04-10 21:15:33,826 - ebanking -INFO - password provided
+2026-04-10 21:15:38,998 - ebanking -INFO - user name provided
+2026-04-10 21:15:39,055 - ebanking -INFO - password provided
+2026-04-10 21:15:50,166 - ebanking -INFO - Login passed
+2026-04-10 21:15:54,241 - ebanking -INFO - user name provided
+2026-04-10 21:15:54,312 - ebanking -INFO - password provided
+2026-04-10 21:15:58,382 - ebanking -INFO - user name provided
+2026-04-10 21:15:58,435 - ebanking -INFO - password provided
+2026-04-10 21:37:02,553 - ebanking -INFO - user name provided
+2026-04-10 21:37:02,610 - ebanking -INFO - password provided
+2026-04-10 21:37:10,720 - ebanking -INFO - Login passed
+2026-04-10 21:37:13,095 - ebanking -INFO - user name provided
+2026-04-10 21:37:13,150 - ebanking -INFO - password provided
+2026-04-10 21:37:17,392 - ebanking -INFO - user name provided
+2026-04-10 21:37:17,450 - ebanking -INFO - password provided
+2026-04-10 21:37:25,532 - ebanking -INFO - Login passed
+2026-04-10 21:37:30,924 - ebanking -INFO - user name provided
+2026-04-10 21:37:30,975 - ebanking -INFO - password provided
+2026-04-10 21:37:34,678 - ebanking -INFO - user name provided
+2026-04-10 21:37:34,727 - ebanking -INFO - password provided
+2026-04-10 21:43:28,781 - ebanking -INFO - user name provided
+2026-04-10 21:43:28,844 - ebanking -INFO - password provided
+2026-04-10 21:43:49,584 - ebanking -INFO - Login passed
+2026-04-10 21:43:52,696 - ebanking -INFO - user name provided
+2026-04-10 21:43:52,756 - ebanking -INFO - password provided
+2026-04-10 21:43:57,073 - ebanking -INFO - user name provided
+2026-04-10 21:43:57,160 - ebanking -INFO - password provided
+2026-04-10 21:44:05,650 - ebanking -INFO - Login passed
+2026-04-10 21:44:11,020 - ebanking -INFO - user name provided
+2026-04-10 21:44:11,080 - ebanking -INFO - password provided
+2026-04-10 21:44:24,612 - ebanking -INFO - user name provided
+2026-04-10 21:44:24,650 - ebanking -INFO - password provided
+2026-04-10 22:35:15,786 - ebanking -INFO - user name provided
+2026-04-10 22:35:15,864 - ebanking -INFO - password provided
+2026-04-10 22:35:24,237 - ebanking -INFO - Login passed
+2026-04-10 22:35:28,688 - ebanking -INFO - user name provided
+2026-04-10 22:35:28,771 - ebanking -INFO - password provided
+2026-04-10 22:35:34,012 - ebanking -INFO - user name provided
+2026-04-10 22:35:34,078 - ebanking -INFO - password provided
+2026-04-10 22:35:45,801 - ebanking -INFO - Login passed
+2026-04-10 22:35:57,502 - ebanking -INFO - user name provided
+2026-04-10 22:35:57,560 - ebanking -INFO - password provided
+2026-04-10 22:36:07,626 - ebanking -INFO - user name provided
+2026-04-10 22:36:07,670 - ebanking -INFO - password provided
+2026-04-11 00:22:06,093 - ebanking -INFO - user name provided
+2026-04-11 00:22:06,199 - ebanking -INFO - password provided
+2026-04-11 00:22:14,740 - ebanking -INFO - Login passed
+2026-04-11 00:22:17,828 - ebanking -INFO - user name provided
+2026-04-11 00:22:17,909 - ebanking -INFO - password provided
+2026-04-11 00:22:23,488 - ebanking -INFO - user name provided
+2026-04-11 00:22:23,562 - ebanking -INFO - password provided
+2026-04-11 00:22:32,092 - ebanking -INFO - Login passed
+2026-04-11 00:22:36,176 - ebanking -INFO - user name provided
+2026-04-11 00:22:36,239 - ebanking -INFO - password provided
+2026-04-11 00:22:40,746 - ebanking -INFO - user name provided
+2026-04-11 00:22:40,803 - ebanking -INFO - password provided
+2026-04-13 18:53:29,842 - ebanking -INFO - user name provided
+2026-04-13 18:53:29,906 - ebanking -INFO - password provided
+2026-04-13 18:53:44,137 - ebanking -INFO - Login passed
+2026-04-13 18:53:53,825 - ebanking -INFO - user name provided
+2026-04-13 18:53:53,883 - ebanking -INFO - password provided
+2026-04-13 18:54:00,349 - ebanking -INFO - user name provided
+2026-04-13 18:54:00,413 - ebanking -INFO - password provided
+2026-04-13 18:54:10,989 - ebanking -INFO - Login passed
+2026-04-13 18:54:39,094 - ebanking -INFO - user name provided
+2026-04-13 18:54:39,143 - ebanking -INFO - password provided
+2026-04-13 18:54:56,593 - ebanking -INFO - user name provided
+2026-04-13 18:54:56,646 - ebanking -INFO - password provided
+2026-04-13 20:12:14,651 - ebanking -INFO - user name provided
+2026-04-13 20:12:14,726 - ebanking -INFO - password provided
+2026-04-13 20:12:22,870 - ebanking -INFO - Login passed
+2026-04-13 20:12:27,668 - ebanking -INFO - user name provided
+2026-04-13 20:12:27,758 - ebanking -INFO - password provided
+2026-04-13 20:12:33,318 - ebanking -INFO - user name provided
+2026-04-13 20:12:33,390 - ebanking -INFO - password provided
+2026-04-13 20:13:03,907 - ebanking -INFO - Login passed
+2026-04-13 20:13:09,267 - ebanking -INFO - user name provided
+2026-04-13 20:13:09,356 - ebanking -INFO - password provided
+2026-04-13 20:13:14,298 - ebanking -INFO - user name provided
+2026-04-13 20:13:14,376 - ebanking -INFO - password provided
+2026-04-13 20:14:48,558 - ebanking -INFO - user name provided
+2026-04-13 20:14:48,633 - ebanking -INFO - password provided
+2026-04-13 20:15:13,665 - ebanking -INFO - Login passed
+2026-04-13 20:15:22,076 - ebanking -INFO - user name provided
+2026-04-13 20:15:22,132 - ebanking -INFO - password provided
+2026-04-13 20:15:28,721 - ebanking -INFO - user name provided
+2026-04-13 20:15:28,779 - ebanking -INFO - password provided
+2026-04-13 20:15:38,958 - ebanking -INFO - Login passed
+2026-04-13 20:15:43,882 - ebanking -INFO - user name provided
+2026-04-13 20:15:43,937 - ebanking -INFO - password provided
+2026-04-13 20:15:47,946 - ebanking -INFO - user name provided
+2026-04-13 20:15:48,002 - ebanking -INFO - password provided
+2026-04-13 20:19:31,705 - ebanking -INFO - user name provided
+2026-04-13 20:19:31,772 - ebanking -INFO - password provided
+2026-04-13 20:20:39,554 - ebanking -INFO - Login passed
+2026-04-13 20:20:47,286 - ebanking -INFO - user name provided
+2026-04-13 20:20:47,365 - ebanking -INFO - password provided
+2026-04-13 20:20:55,286 - ebanking -INFO - user name provided
+2026-04-13 20:20:55,355 - ebanking -INFO - password provided
+2026-04-13 20:21:05,900 - ebanking -INFO - Login passed
+2026-04-13 20:21:08,160 - ebanking -INFO - user name provided
+2026-04-13 20:21:08,221 - ebanking -INFO - password provided
+2026-04-13 20:21:12,068 - ebanking -INFO - user name provided
+2026-04-13 20:21:12,132 - ebanking -INFO - password provided
